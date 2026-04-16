@@ -1,14 +1,7 @@
 # Smart-AquaGrow-System
 Smart AquaGrow is an automated plant watering system that monitors soil moisture and controls water supply accordingly.It uses Arduino and soil moisture sensor for efficient water management.
 
-🌱 Automatic Plant Watering System
-
-## 📌 Abstract
-The aim of this project is to simplify the process of watering plants at home using an Automatic Plant Watering System. The system automatically switches the water pump ON or OFF based on the moisture content of the soil, which is continuously monitored using a soil moisture sensor. The entire process is controlled by an Arduino UNO programmed using Arduino IDE.
-
----
-
-## 🚀 Introduction
+# Introduction
 This project presents an automated solution for watering plants efficiently by providing the right amount of water at the right time. The system works in three main stages:
 
 1. Sensing the moisture level of the soil  
