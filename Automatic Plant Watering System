@@ -1,4 +1,5 @@
 # Introduction
+## 🚀 **Introduction**
 This project presents an automated solution for watering plants efficiently by providing the right amount of water at the right time. The system works through the following processes:
 
 Monitoring the moisture level of the soil using a sensor
@@ -7,8 +8,8 @@ Automatically controlling the water pump based on soil condition
 Reducing water wastage by watering only when required
 Providing a simple and cost-effective solution for home use
 The soil moisture sensor continuously monitors the soil condition and sends data to the Arduino UNO. Based on this data, the Arduino controls the water pump by turning it ON or OFF.
-This approach helps in:
 
+This approach helps in:
 Preventing overwatering
 Avoiding underwatering
 Saving water
