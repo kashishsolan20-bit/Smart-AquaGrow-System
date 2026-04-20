@@ -12,6 +12,8 @@ Over the years, Arduino has been the brain of thousands of projects, from everyd
 
 2) SOIL MOISTURE SENSOR
 
+![soil](./soil.jpg)
+
 The soil moisture sensor (SMS) is a sensor connected to an irrigation system controller that measures soil moisture content in the active root zone before each scheduled irrigation event and bypasses the cycle if soil moisture is above a user- defined set point. 
 
  The Soil Moisture Sensor uses capacitance to measure dielectric permittivity of the surrounding medium. In soil, dielectric permittivity is a function of water content. The sensor creates a voltage proportional to the dielectric permittivity, and therefore the water content of the soil. 
@@ -20,6 +22,7 @@ Soil moisture sensors using reflectometry determine the water content by measuri
 
 3) LCD WITH  I2C MODULE
 
+![lcd](./lcd.jpg)
 
 A liquid-crystal display (LCD) is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals combined with polarizers. Liquid crystals do not emit light directly but instead use a backlight or reflector to produce images in color or monochrome. 
 
@@ -29,6 +32,8 @@ The I2C LCD component is used in applications that require a visual or textual d
 
 4) RELAY  MODULE
 
+![relay](./relay.png)
+
 A power relay module is an electrical switch that is operated by an electromagnet. The electromagnet is activated by a separate low-power signal from a micro controller. When activated, the electromagnet pulls to either open or close an electrical circuit. 
 
 The Relay Interface Module provides one volt- free relay changeover contact on a latching relay. The relay is controlled by a command sent from the fire controller via the addressable loop. The relay state (activated, deactivated or stuck) is returned to the controller.  
@@ -37,11 +42,15 @@ It works on the principle of electromagnetism. The electromagnetic field that cr
 
 5) DC PUMP
 
+![pump](./pump.jpg)
+
 DC powered pumps use direct current from motor, battery, or solar power to move fluid in a variety of ways. Motorized pumps typically operate on 6, 12, 24, or 32 volts of DC power. Solar-powered DC pumps use photovoltaic (PV) panels with solar cells that produce direct current when exposed to sunlight. 
 
 DC water pump is a machine that transports liquid or pressurizes liquid. When the water pump is working, the coil and commutator rotate, but the magnetic steel and carbon brushes do not rotate. The alternating current direction of the coil is changed by the commutator and brushes that rotate with the motor. 
 
 6) BATTERY
+
+![battery](./battery.jpg)
 
 A nine-volt battery, either disposable or rechargeable, is usually used in smoke alarms, smoke detectors, walkie-talkies, transistor radios, test and instrumentation devices, medical batteries, LCD displays, and other small portable appliances 
 
