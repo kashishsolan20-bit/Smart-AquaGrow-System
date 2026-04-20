@@ -1,4 +1,4 @@
-# Components  Required
+# COMPONENTS  REQUIRED
 
 ## 1)ARDUINO UNO 
 
