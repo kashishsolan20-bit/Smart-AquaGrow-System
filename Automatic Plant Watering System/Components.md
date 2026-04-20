@@ -1,16 +1,13 @@
-# Components Required
+# Components  Required
 
 1)ARDUINO UNO 
 
-![Arduino](https://github.com/kashishsolan20-bit/Smart-AquaGrow-System/raw/c2c1dcb4827f47c619ece987b4cb90660534d128/Automatic%20Plant%20Watering%20System/arduino%20uno.jpg)
+https://github.com/kashishsolan20-bit/Smart-AquaGrow-System/raw/main/Automatic%20Plant%20Watering%20System/arduino.jpg?raw=true
 
 Arduino is an open-source electronics platforms based on easy-to-use hardware and software. Arduino boards are able to read inputs — light on a sensor, a finger on a button, or a Twitter message — and turn it into an output such as activating a motor, turning on an LED, or publishing something online. 
 
 You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so, you use the Arduino programming language (based on Wiring) and the Arduino Software (IDE), based on Processing.
 
 Over the years, Arduino has been the brain of thousands of projects, from everyday objects to complex scientific instruments. A worldwide community of makers — students, hobbyists, artists, programmers, and professionals — has contributed to this open-source platform, creating a huge amount of accessible knowledge for both beginners and experts.
-![Arduino](./arduino.jpg)
 
-![Arduino](https://raw.githubusercontent.com/kashishsolan20-bit/Smart-AquaGrow-System/main/Automatic%20Plant%20Watering%20System/arduino.jpg)
 
-![Arduino](https://github.com/kashishsolan20-bit/Smart-AquaGrow-System/blob/main/Automatic%20Plant%20Watering%20System/arduino.jpg?raw=true)
