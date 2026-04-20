@@ -1,5 +1,5 @@
 # PROTOTYPE DIAGRAM
 
 <p align="center">
-  <img src="./circuit.jpg" width="700">
+  <img src="./image.webp" width="700">
 </p>
