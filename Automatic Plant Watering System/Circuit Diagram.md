@@ -1,5 +1,6 @@
 # CIRCUIT DIAGRAM
 
+
 <p align="center">
-  <img src="./circuit1.png" width="700">
+  <img src="images/circuit1.png" alt="Circuit Diagram" width="700"/>
 </p>
