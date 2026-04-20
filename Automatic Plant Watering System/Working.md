@@ -3,7 +3,7 @@
 The Automatic Plant Watering System using Arduino operates by continuously monitoring soil moisture levels and automatically controlling irrigation based on predefined conditions.
 
 ## 1. Power Supply
-The system is powered by a 12V power supply connected to the Arduino board. A voltage regulator is used to provide stable DC power suitable for the Arduino Nano.
+The system is powered by a 12V power supply connected to the Arduino board. A voltage regulator is used to provide stable DC power suitable for the Arduino Uno.
 
 ## 2. Sensor Reading
 A capacitive soil moisture sensor is connected to an analog input pin of the Arduino. It detects the moisture level present in the soil.
