@@ -2,7 +2,10 @@
 
 ## 1)ARDUINO UNO 
 
-![Arduino](./arduino.jpg)
+<p align="left">
+  <img src="images/arduino.jpg" alt="Arduino UNO" width="300"/>
+</p>
+
 
 Arduino is an open-source electronics platforms based on easy-to-use hardware and software. Arduino boards are able to read inputs — light on a sensor, a finger on a button, or a Twitter message — and turn it into an output such as activating a motor, turning on an LED, or publishing something online. 
 
@@ -12,7 +15,10 @@ Over the years, Arduino has been the brain of thousands of projects, from everyd
 
 ## 2) SOIL MOISTURE SENSOR
 
-![soil](./soil.jpg)
+<p align="left">
+  <img src="images/soil.jpg" alt="Soil Sensor" width="300"/>
+</p>
+
 
 The soil moisture sensor (SMS) is a sensor connected to an irrigation system controller that measures soil moisture content in the active root zone before each scheduled irrigation event and bypasses the cycle if soil moisture is above a user- defined set point. 
 
@@ -22,7 +28,9 @@ Soil moisture sensors using reflectometry determine the water content by measuri
 
 ## 3) LCD WITH  I2C MODULE
 
-<img src="./lcd.jpg" width="300" height="300">
+<p align="left">
+  <img src="images/lcd.jpg" alt="LCD" width="300"/>
+</p>
 
 A liquid-crystal display (LCD) is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals combined with polarizers. Liquid crystals do not emit light directly but instead use a backlight or reflector to produce images in color or monochrome. 
 
@@ -32,7 +40,9 @@ The I2C LCD component is used in applications that require a visual or textual d
 
 ## 4) RELAY  MODULE
 
-<img src="./relay.png" width="300" height="300">
+<p align="left">
+  <img src="images/relay.png" alt="Relay Module" width="300"/>
+</p>
 
 A power relay module is an electrical switch that is operated by an electromagnet. The electromagnet is activated by a separate low-power signal from a micro controller. When activated, the electromagnet pulls to either open or close an electrical circuit. 
 
@@ -42,7 +52,9 @@ It works on the principle of electromagnetism. The electromagnetic field that cr
 
 ## 5) DC PUMP
 
-![pump](./pump.jpg)
+<p align="left">
+  <img src="images/pump.jpg" alt="DC Pump" width="300"/>
+</p>
 
 DC powered pumps use direct current from motor, battery, or solar power to move fluid in a variety of ways. Motorized pumps typically operate on 6, 12, 24, or 32 volts of DC power. Solar-powered DC pumps use photovoltaic (PV) panels with solar cells that produce direct current when exposed to sunlight. 
 
@@ -50,14 +62,18 @@ DC water pump is a machine that transports liquid or pressurizes liquid. When th
 
 ## 6) BATTERY
 
-<img src="./battery.jpg" width="300" height="300">
+<p align="left">
+  <img src="images/battery.jpg" alt="Battery" width="300"/>
+</p>
 A nine-volt battery, either disposable or rechargeable, is usually used in smoke alarms, smoke detectors, walkie-talkies, transistor radios, test and instrumentation devices, medical batteries, LCD displays, and other small portable appliances 
 
 A battery is a device that converts chemical energy contained within its active materials directly into electric energy by means of an electrochemical oxidation-reduction (redox) reaction. This type of reaction involves the transfer of electrons from one material to another via an electric circuit. 
 
 ## 7) JUMPER WIRES
 
-![Jumper](./jumper.jpg)
+<p align="left">
+  <img src="images/jumper.jpg" alt="Jumper Wires" width="300"/>
+</p>
 
 A jumper wire is an electric wire that connects remote electric circuits used for printed circuit boards. By attaching a jumper wire on the circuit, it can be short-circuited and short-cut (jump) to the electric circuit. 
 
